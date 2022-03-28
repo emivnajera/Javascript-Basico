@@ -16,3 +16,18 @@ if(edad < 18){
 }else{
     console.log("Puede Votar");
 }
+
+
+//Switch
+var numero = 1;
+switch (numero) {
+    case 1:
+        console.log("Valor 1");
+        break;
+    case 10:
+        console.log("Valor 10");
+        break;
+    default:
+        console.log("No es ni 1 ni 10");
+}
+
