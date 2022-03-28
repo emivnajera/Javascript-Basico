@@ -30,4 +30,3 @@ switch (numero) {
     default:
         console.log("No es ni 1 ni 10");
 }
-
