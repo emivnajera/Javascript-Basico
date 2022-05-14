@@ -16,4 +16,6 @@ class Course{
         this._name = nombre
     }
 
-}
+} 
+
+//NombreDelObjeto.atributo
