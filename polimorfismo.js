@@ -222,7 +222,7 @@ class Course {
       console.log(this.content);
     }
   }
-
+  
 
   miguelito.comentar("Hola");
   juan.comentar("Hola");
